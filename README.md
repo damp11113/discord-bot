@@ -1,2 +1,2 @@
-# my discord bot v2.4.3B
+# my discord bot
  from KNTT Server
