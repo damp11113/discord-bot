@@ -135,7 +135,6 @@ async def clearall(ctx, amount=1000000):
  if commands.has_permissions(manage_messages=True):
    await ctx.channel.purge(limit=amount)
 
-
 @bot.command()
 async def dm(ctx, member: discord.Member, *, content):
     """dm to user @(user)"""
