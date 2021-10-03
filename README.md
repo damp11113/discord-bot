@@ -1,2 +1,2 @@
 # my discord bot
- from KNTT Server
+ chang your token file
