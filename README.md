@@ -2,5 +2,5 @@
  chang your token file
  
 
-this is no virus.
-This is not nuke bot.
+This is no virus.
+This is not a nuke bot.
