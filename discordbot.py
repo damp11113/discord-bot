@@ -50,13 +50,13 @@ for i in tqdm(range(770)):
     sleep(0.001)
 
 
-OWNERID = 735806290537873448
-serverid = 820636278915465237
-welcome = 831007898976780309
+OWNERID = 
+serverid = 
+welcome = 
 bot = commands.Bot(command_prefix='%')
 global_filename = 'log.txt'
 global_guildid = 0
-password = 'sanswdw1714'
+password = ''
 delay = 5
 # Read the Data files and store them in a variable
 TokenFile = open("./Token.txt", "r") # Make sure to paste the token in the txt file
