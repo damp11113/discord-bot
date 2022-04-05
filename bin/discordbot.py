@@ -27,7 +27,7 @@ SOFTWARE.
 
 ___report___ = 'https://github.com/damp11113/discord-bot/issues'
 
-version = 'V1.17.1 Dev'
+version = 'V1.18.1 Dev'
 
 build = '2022'
 
