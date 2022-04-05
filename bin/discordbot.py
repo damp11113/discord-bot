@@ -81,6 +81,11 @@ for i in use:
     if sdk.defcheck(i) == False:
         console.warn(f'{i} is not installed')
         sys.exit()
+        
+# ---------------------------------setup-5----------------------------------
+
+keepalive()
+
 # -------------------------------startup------------------------------------
 
 @bot.event  # start
