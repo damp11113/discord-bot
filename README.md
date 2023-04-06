@@ -1,6 +1,10 @@
 discord-bot
 ==============
 
+warning!!!!!
+this project use old damp11113 library. please install version 2022.11.14.8.14.3 with git
+
+
 please install damp11113 library
 
     pip install damp11113
